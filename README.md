@@ -11,8 +11,21 @@
 🚀 <strong><a href="https://github.com/ps-aiotap/IndexCopilot">IndexCopilot.ai</a></strong>  
 An AI-powered mutual fund discovery and portfolio management tool focused on Indian index funds.
 
-- [`IndexCopilot`](https://github.com/ps-aiotap/IndexCopilot): Public version for portfolio tracking & CSV uploads
-- `IndexCopilot.ai`: Private advanced version (LLM fund advisor, AMFI sync, Google login)
+- [`IndexCopilot`](https://github.com/ps-aiotap/IndexCopilot): Public portfolio tracker with modular Streamlit UI, CSV upload, visual analytics
+- `IndexCopilot.ai`: Private repo with multi-LLM chat assistant, AMFI sync, Google OAuth, FastAPI backend, Redis caching
+
+🛍️ <strong><a href="https://github.com/ps-aiotap/storeloop">StoreLoop</a></strong>  
+Multi-seller e-commerce engine for artisan products (built for family use)  
+- Django 4.2, Tailwind, Razorpay integration, custom homepage builder, theme engine, variant support
+
+---
+
+### ⚙️ How I Work
+
+- Build modular, testable, AI-enhanced applications fast
+- Use Amazon Q and ChatGPT for code generation, testing, and bug tracing
+- Apply prompt engineering to make features ship faster and smarter
+- Split work cleanly across frontend, backend, and orchestration layers
 
 ---
 
@@ -26,20 +39,20 @@ An AI-powered mutual fund discovery and portfolio management tool focused on Ind
 
 ### 🧠 Skills & Tools
 
-- Python, Django, Streamlit
-- React.js, Alpine.js, TailwindCSS
-- PostgreSQL, SQLite
-- Amazon Q, Git, VS Code, OpenAI
+- **Languages & Frameworks**: Python, Django, FastAPI, Streamlit, React.js, TailwindCSS, Alpine.js
+- **Databases**: PostgreSQL, SQLite
+- **Infra & Tooling**: Redis, Docker, GitHub Actions, Amazon Q, OpenAI, Railway
+- **AI/LLM**: OpenAI, Groq, OpenRouter – integrated via custom providers
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [`IndexCopilot`](https://github.com/ps-aiotap/IndexCopilot) | Open-source Streamlit app for mutual fund portfolio management |
-| `IndexCopilot.ai` | Private repo with AI fund recommendation, OAuth login, AMFI auto-sync |
-| [`StoreLoop`](https://github.com/ps-aiotap/storeloop) | Multi-seller artisan marketplace built with Django (for family use) |
+| Project | Stack | Highlights |
+|--------|-------|------------|
+| [`IndexCopilot`](https://github.com/ps-aiotap/IndexCopilot) | Python, Streamlit | Portfolio visualizer, modular tabs, analytics, export |
+| `IndexCopilot.ai` | FastAPI, Redis, LLMs | AI index fund advisor, Google login, AMFI data sync |
+| [`StoreLoop`](https://github.com/ps-aiotap/storeloop) | Django, React, Tailwind | Multi-seller marketplace, homepage builder, payment flow |
 
 ---
 
@@ -51,4 +64,4 @@ An AI-powered mutual fund discovery and portfolio management tool focused on Ind
 
 ---
 
-<p align="center"><i>⚡ Always building. Always shipping. ⚡</i></p>
+<p align="center"><i>⚡ Engineer with an AI co-pilot. Always building. Always shipping. ⚡</i></p>
