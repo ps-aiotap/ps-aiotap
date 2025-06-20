@@ -23,7 +23,7 @@ Multi-seller e-commerce engine for artisan products (built for family use)
 ### ⚙️ How I Work
 
 - Build modular, testable, AI-enhanced applications fast
-- Use Amazon Q and ChatGPT for code generation, testing, and bug tracing
+- Use AI assistants to complement deep coding work — especially for test scaffolding, diff analysis, and cross-component refactoring
 - Apply prompt engineering to make features ship faster and smarter
 - Split work cleanly across frontend, backend, and orchestration layers
 
