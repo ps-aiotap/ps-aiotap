@@ -14,11 +14,10 @@ An AI-powered mutual fund discovery and portfolio management tool focused on Ind
 - [`IndexCopilot`](https://github.com/ps-aiotap/IndexCopilot): Public portfolio tracker with modular Streamlit UI, CSV upload, visual analytics
 - `IndexCopilot.ai`: Private repo with multi-LLM chat assistant, AMFI sync, Google OAuth, FastAPI backend, Redis caching
 
-🛍️ <strong><a href="https://github.com/ps-aiotap/storeloop">StoreLoop</a></strong>  
+<strong><a href="https://github.com/ps-aiotap/storeloop">StoreLoop</a></strong>  
 Multi-seller e-commerce engine for artisan products (built for family use)  
-- Django 4.2, Tailwind, Razorpay integration, custom homepage builder, theme engine, variant support
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/795ebe98fa57463880091cb22868f6e7-with-play.gif)](https://www.loom.com/share/795ebe98fa57463880091cb22868f6e7)
-
+- Django 4.2, Tailwind, Razorpay integration, custom homepage builder, theme engine, variant support  
+- ▶️ [Watch demo on Loom](https://www.loom.com/share/795ebe98fa57463880091cb22868f6e7)
 ---
 
 ### ⚙️ How I Work
