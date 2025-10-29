@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm Pushpendu</h2>
 <p align="center">
-  Founder-Engineer @ AioTap<br>
+  Founder-Engineer | Tech Leader @ AioTap<br>
   AI × Fintech | Building from India for the World
 </p>
 
